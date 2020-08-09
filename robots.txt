@@ -1,1 +1,1 @@
-Sitemap: https://sergiomoraes.github.io/sergiomoraesblog/sitemap.xml
+Sitemap: https://sergiomoraes.dev/sitemap.xml
