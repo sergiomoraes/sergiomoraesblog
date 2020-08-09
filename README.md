@@ -10,4 +10,4 @@ _[powered by fastpages](https://github.com/fastai/fastpages)_
 
 ## Bugs
 
-If you find any bugs, typos, oddities, please file an ["bug report"](https://github.com/sergiomoraes/sergiomoraesblog/issues/new?assignees=&labels=bug%2C+question&template=bug_report.md&title=%5BBUG%5D).
+If you find any bugs, typos, oddities, please file a ["bug report"](https://github.com/sergiomoraes/sergiomoraesblog/issues/new?assignees=&labels=bug%2C+question&template=bug_report.md&title=%5BBUG%5D).
