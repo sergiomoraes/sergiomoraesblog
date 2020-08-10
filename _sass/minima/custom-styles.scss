@@ -9,3 +9,23 @@
 
 // If you want to turn off dark background for syntax highlighting, comment or delete the below line.
 @import "minima/fastpages-dracula-highlight"; 
+
+.page-content{
+	font-family: "Consola";
+}
+
+.post-content p, .post-content li {
+	font-size: 14px;
+}
+
+.page-description {
+	font-size: 90%;
+}
+
+.search-results-list-item .search-result-title {
+	font-size: 14px;
+}
+
+.search-result-preview {
+	font-size: 14px;
+}
