@@ -1,9 +1,7 @@
 ---
+layout: page
 title: About Me
 permalink: /about/
-layout: page
-badges: true
-categories: about
 ---
 
 <!--
