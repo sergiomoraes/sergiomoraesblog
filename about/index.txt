@@ -121,19 +121,19 @@ window.onload = wrap_img;
   </header>
 
   <div class="post-content">
-    <p>Here I share my personal thoughts around technology, data governance, and personal projects. I’m a Data Governance &amp; Data Quality professional, and spend most of my time thinking about data and how it influences our lives.</p>
+    Here I share my personal thoughts around technology, data governance, and personal projects. I'm a Data Governance & Data Quality professional, and spend most of my time thinking about data and how it influences our lives.
 
-<p>Reach out if you’d like to talk about anything data, enterprise project management methodologies, or computer science.</p>
+Reach out if you'd like to talk about anything data, enterprise project management methodologies, or computer science.
 
-<p>My preferred contact method is email: <a href="mailto:sergiomoraes@ieee.org">sergiomoraes@ieee.org</a></p>
+My preferred contact method is email: <sergiomoraes@ieee.org>
 
-<p>You can also find me on <a href="https://twitter.com/SergiMoraes">Twitter</a></p>
+You can also find me on [Twitter](https://twitter.com/SergiMoraes)
 
-<p>twitter: https://twitter.com/SergiMoraes</p>
+twitter: https://twitter.com/SergiMoraes
 
-<p><img src="/images/supporting-member-badge.png" alt="" /></p>
+![](../images/supporting-member-badge.png)
 
-<p>Note: Support Python <a href="https://www.python.org/psf/">Software Foundation</a></p>
+Note: Support Python [Software Foundation](https://www.python.org/psf/)
 
   </div>
 
