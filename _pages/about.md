@@ -1,7 +1,10 @@
 ---
-layout: page
+layout: post
 title: About Me
 permalink: /about/
+comments: false
+badges: true
+categories: about
 ---
 
 <!--
