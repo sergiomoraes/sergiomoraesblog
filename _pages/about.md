@@ -12,8 +12,8 @@ My preferred contact method is email: <sergiomoraes@ieee.org>
 
 You can also find me on [Twitter](https://twitter.com/SergiMoraes)
 
-> twitter: https://twitter.com/SergiMoraes
+twitter: https://twitter.com/SergiMoraes
 
 ![](../images/supporting-member-badge.png)
 
-> Note: Support Python [Software Foundation](https://www.python.org/psf/)
+Note: Support Python [Software Foundation](https://www.python.org/psf/)
