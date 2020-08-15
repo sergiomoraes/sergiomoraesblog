@@ -7,7 +7,7 @@
   
       "page1": {
           "title": "About Me",
-          "content": "# &quot;About Me&quot; - toc: false - branch: master - comments: false - author: Sergio Moraes - badges: true - categories: [about] - hide: true - permalink: /about/ - layout: page Here I share my personal thoughts around technology, data governance, and personal projects. I&#39;m a Data Governance &amp; Data Quality professional, and spend most of my time thinking about data and how it influences our lives. Reach out if you&#39;d like to talk about anything data, enterprise project management methodologies, or computer science. My preferred contact method is email: &lt;sergiomoraes@ieee.org&gt; You can also find me on [Twitter](https://twitter.com/SergiMoraes) &gt; twitter: https://twitter.com/SergiMoraes ![](../images/supporting-member-badge.png) &gt; Note: Support Python [Software Foundation](https://www.python.org/psf/) .",
+          "content": "On this site, I share my personal thoughts around technology, data, and personal projects. I’m a Data Governance &amp; Data Quality professional, and I like to spend my time thinking about technology and how it influences our lives. . Reach out to me if you’d like to talk about anything data, enterprise project management methodologies, or computer science. . My preferred contact method is email: sergiomoraes@ieee.org but you can also find me on Twitter @SergiMoraes . . . Tip: Consider supporting the Python Software Foundation",
           "url": "https://sergiomoraes.dev/about/",
           "relUrl": "/about/",
           "date": ""
