@@ -1,11 +1,22 @@
 {
   
+    
+        "post0": {
+            "title": "Remote Work During the Pandemic",
+            "content": "",
+            "url": "https://sergiomoraes.dev/2020/08/16/remote_work_publish.html",
+            "relUrl": "/2020/08/16/remote_work_publish.html",
+            "date": " • Aug 16, 2020"
+        }
+        
+    
+  
 
   
   
 
   
-      "page1": {
+      ,"page1": {
           "title": "About Me",
           "content": "On this site, I share my personal thoughts around technology, data, and personal projects. I’m a Data Governance &amp; Data Quality professional, and I like to spend my time thinking about technology and how it influences our lives. . Reach out to me if you’d like to talk about anything data, enterprise project management methodologies, or computer science. . My preferred contact method is email: sergiomoraes@ieee.org but you can also find me on Twitter @SergiMoraes . . . Tip: Consider supporting the Python Software Foundation",
           "url": "https://sergiomoraes.dev/about/",
