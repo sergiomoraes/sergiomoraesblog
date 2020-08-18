@@ -6,9 +6,10 @@ branch: master
 badges: true
 comments: true
 categories: [collaboration, communication, virtual work]
-image: _posts\images\014-work.png
+image: images/014-work.png
 hide: false
 search_exclude: false
+show-image: false
 nb_path: _notebooks/2020-08-17-remote_work_publish.ipynb
 layout: notebook
 ---
