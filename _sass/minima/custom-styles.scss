@@ -11,11 +11,11 @@
 @import "minima/fastpages-dracula-highlight"; 
 
 .page-content{
-	font-family: "Consola";
+	font-family: "Consolas";
 }
 
 .post-content p, .post-content li {
-	font-size: 14px;
+	font-size: 16px;
 }
 
 .page-description {
@@ -23,11 +23,11 @@
 }
 
 .search-results-list-item .search-result-title {
-	font-size: 14px;
+	font-size: 15px;
 }
 
 .search-result-preview {
-	font-size: 14px;
+	font-size: 15px;
 }
 
 .img {
@@ -36,3 +36,17 @@
 	margin-right: 280em;
 	
 }
+
+.column {
+	float: left;
+	width: 50%;
+	padding: 5px;
+	align-content: center;
+  }
+  
+  /* Clear floats after image containers */
+  .row::after {
+	content: "";
+	clear: both;
+	display: table;
+  }

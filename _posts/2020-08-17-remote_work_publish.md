@@ -1,5 +1,6 @@
 ---
 keywords: fastai
+description: "I've been thinking a lot about remote work/ virtual work and I'd like to share some of my thoughts."
 title: "Remote Work During the Pandemic"
 toc: false
 branch: master
@@ -8,6 +9,7 @@ comments: true
 categories: [collaboration, communication, virtual work]
 hide: false
 search_exclude: false
+image: https://res.cloudinary.com/sergiomoraes/image/upload/v1597785294/sergiomoraesblog/remote_work_thumbnail_hhaft9.jpg
 permalink: /posts/:title:output_ext
 nb_path: _notebooks/2020-08-17-remote_work_publish.ipynb
 layout: notebook
@@ -33,23 +35,67 @@ layout: notebook
 <div class="text_cell_render border-box-sizing rendered_html">
 <p>I've been thinking a lot about remote work/ virtual work and I'd like to share some of my thoughts.</p>
 <p>Due to the pandemic, naturally, companies started to adjust and allow team members to work from home. However, what I would like to focus on is how that transition has been dealt with.</p>
-<p>Remote work/ virtual work/ WFH, is not a new thing. We've been talking about it for quite a while now (<a href="https://hbr.org/2013/01/the-third-wave-of-virtual-work" title="The Third Wave of Virtual Work by Tammy Johns and Lynda Gratton">2013 Harvard Business Review article: The Third Wave of Virtual Work</a>). What's new is the colossal number of people making the transition all at once and the lack of preparation from organizations.</p>
-<p>Companies - and certainly vendors! - are willing to overlook the fact that team member collaboration and communication are not new challenges. They haven't spawned suddenly alongside the need for virtual work. Providing new, or existing, software solutions for remote work is necessary but no the end of the efforts for proper enablement of a good remote work enviroment.
-Ultimately, much like when team members are working in the office, without proper training, policies, recurring verbal and written reminders of expectations, flexibility, etc., team members will find their own ways through the available systems and methods of communication.</p>
+<p>Remote work/ virtual work, is not a new thing. We've been talking about it for quite a while now (<a href="https://hbr.org/2013/01/the-third-wave-of-virtual-work" title="The Third Wave of Virtual Work by Tammy Johns and Lynda Gratton">2013 Harvard Business Review article: The Third Wave of Virtual Work</a>). What's new is the colossal number of people making the transition all at once and the lack of preparation from organizations.</p>
+<p>Companies - and vendors! - are willing to overlook the fact that team member collaboration and communication are not new challenges. They haven't spawned suddenly alongside the need for virtual work. Providing new, or existing, software solutions for remote work is necessary but no the end of the efforts for proper enablement of a good remote work enviroment.</p>
+<p><img src="https://res.cloudinary.com/sergiomoraes/image/upload/v1597788302/sergiomoraesblog/remote_work_comm_options_a4uukl.jpg" alt="Cartoon people staring at laptop with several chat bubbles"></p>
+<p>Ultimately, much like when team members are working in the office, without proper training, policies, recurring verbal and written reminders of expectations, flexibility, etc., team members will find their own ways through the available systems and methods of communication.</p>
 <p>The issue being, when people find their own ways, your organization ends up with 100 different ways of communicating and collaborating, which means, people are most likely spending valuable time recuperating information lost during those interactions.
 The harm here is real, and it much deeper than organizations are willing to recognize. Content management becomes more elusive, knowledge management goes pretty much out the window, burn out is even more rarely recognized, and organizations lose valuable team members.</p>
-<p>Here are some resources I found interesting or noteworthy. These are meant to get you started on your own research or thinking about the subject.
-<em>I'm not endorsing any papers, publications, or articles. I'm only sharing resources I came across while doing my own research. With a quick glance it should be obvious that some of these don't have a good enough sample size, peer-review, etc.</em></p>
-<p><a href="https://hbr.org/2020/03/a-guide-to-managing-your-newly-remote-workers">A Guide to Managing Your (Newly) Remote Workers</a>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="Resources">Resources<a class="anchor-link" href="#Resources"> </a></h3><p>Here are some resources I found interesting or noteworthy. These are meant to get you started on your own research or thinking about the subject.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>{% include note.html content='I&#8217;m not endorsing any papers, publications, or articles. I&#8217;m only sharing resources I came across while doing my own research. With a quick glance it should be obvious that some of these don&#8217;t have a good enough sample size, peer-review, etc.' %}</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<ul>
+<li><a href="https://hbr.org/2020/03/a-guide-to-managing-your-newly-remote-workers">A Guide to Managing Your (Newly) Remote Workers</a>
 Research referenced in the article above:
 An interesting paper looking at virtual work from the perspective of the individual.
-<a href="https://www.academia.edu/33575597/CHANGING_THE_PERSPECTIVE_OF_VIRTUAL_WORK_BUILDING_VIRTUAL_INTELLIGENCE_AT_THE_INDIVIDUAL_LEVEL?source=swp_share">Changing the Perspective of Virtual Work: Building Virtual Intelligence at the Individual Level</a></p>
-<p>Research from the U.S. Department of Energy - Office of Scientific and Technical Information. <a href="https://www.osti.gov/biblio/1487022">The Challenge and Promise of Remote Work: A Brief Study of Remote Work and Best Practices</a></p>
-<p>An argument for an expansion of remote work in the future. <a href="https://lib.dr.iastate.edu/econ_workingpapers/102/">The Case for Remote Work</a></p>
-<p>A direct look into how Covid-19 has changed virtual work. <a href="https://www.tandfonline.com/doi/full/10.1080/0960085X.2020.1800417">An affordance perspective of team collaboration and enforced working from home during COVID-19</a></p>
-<p>Truly fascinating thing. Putting aside the creepiness possibilities, this sort of technology targets one of the biggest concerns I have around virtual work - the challenges around lack of visual queus, expressions, sounds, etc., are really hard to solve. <a href="https://dl.acm.org/doi/abs/10.1145/3170427.3188453">Visualizing Gaze Information from Multiple Students to Support Remote Instruction</a></p>
-<p><a href="https://www.microsoft.com/en-us/research/publication/remote-workers-wellbeing-in-the-age-of-covid-19/">Remote workers’ wellbeing in the age of COVID-19</a></p>
-<p><em>Originally posted on <a href="https://twitter.com/SergiMoraes">Twitter @SergiMoraes</a></em></p>
+<a href="https://www.academia.edu/33575597/CHANGING_THE_PERSPECTIVE_OF_VIRTUAL_WORK_BUILDING_VIRTUAL_INTELLIGENCE_AT_THE_INDIVIDUAL_LEVEL?source=swp_share">Changing the Perspective of Virtual Work: Building Virtual Intelligence at the Individual Level</a></li>
+</ul>
+<ul>
+<li>Research from the U.S. Department of Energy - Office of Scientific and Technical Information. <a href="https://www.osti.gov/biblio/1487022">The Challenge and Promise of Remote Work: A Brief Study of Remote Work and Best Practices</a>
+&lt;/br&gt;</li>
+<li>An argument for an expansion of remote work in the future. <a href="https://lib.dr.iastate.edu/econ_workingpapers/102/">The Case for Remote Work</a></li>
+</ul>
+<ul>
+<li>A direct look into how Covid-19 has changed virtual work. <a href="https://www.tandfonline.com/doi/full/10.1080/0960085X.2020.1800417">An affordance perspective of team collaboration and enforced working from home during COVID-19</a></li>
+</ul>
+<ul>
+<li>Truly fascinating thing. Putting aside the creepiness possibilities, this sort of technology targets one of the biggest concerns I have around virtual work - the challenges around lack of visual queus, expressions, sounds, etc., are really hard to solve. <a href="https://dl.acm.org/doi/abs/10.1145/3170427.3188453">Visualizing Gaze Information from Multiple Students to Support Remote Instruction</a></li>
+</ul>
+<ul>
+<li><a href="https://www.microsoft.com/en-us/research/publication/remote-workers-wellbeing-in-the-age-of-covid-19/">Remote workers’ wellbeing in the age of COVID-19</a></li>
+</ul>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Tell me how you or your company is tackling remote work below or on twitter.</p>
+<p><em>Originally posted on <a href="https://twitter.com/SergiMoraes">Twitter @SergiMoraes</a></em>:</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>{% include twitter.html content='<a href="https://twitter.com/SergiMoraes/status/1295494529563234304">https://twitter.com/SergiMoraes/status/1295494529563234304</a>' %}</p>
 
 </div>
 </div>
