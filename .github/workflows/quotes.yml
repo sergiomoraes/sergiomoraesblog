@@ -1,0 +1,21 @@
+name: Quotes API Call Auto-Update
+
+# Controls when the action will run. Triggers the workflow on the first of every month
+on:
+  schedule: 
+  - cron: "15 14 1 * *"
+# Action: Fetch API Data - saves data to fetch_api_data env variable and .json file located in 'fetch-api-data-action/data.json'
+jobs:
+  refresh-feed:
+      runs-on: ubuntu-latest
+      steps:
+      
+        - name: Fetch API Data 📦
+          uses: JamesIves/fetch-api-data-action@releases/v1
+          with:
+            ENDPOINT: https://programming-quotes-api.herokuapp.com/quotes/random
+            CONFIGURATION: '{ "method": "GET" }'
+
+          
+
+            
