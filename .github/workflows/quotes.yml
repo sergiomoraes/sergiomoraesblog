@@ -2,6 +2,7 @@ name: Quotes API Call Auto-Update
 
 # Controls when the action will run. Triggers the workflow on the first of every month
 on:
+  workflow_dispatch:
   schedule: 
   - cron: "15 14 1 * *"
 # Action: Fetch API Data - saves data to fetch_api_data env variable and .json file located in 'fetch-api-data-action/data.json'
