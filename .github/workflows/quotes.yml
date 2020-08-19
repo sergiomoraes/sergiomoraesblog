@@ -15,8 +15,11 @@ jobs:
           uses: JamesIves/fetch-api-data-action@releases/v1
           with:
             ENDPOINT: https://programming-quotes-api.herokuapp.com/quotes/random
-            CONFIGURATION: '{ "method": "GET" }'
 
-          
-
+        - name: Build and Deploy 🚀
+          uses: JamesIves/github-pages-deploy-action@releases/v3
+          with:
+            BRANCH: master # Pushes the updates to the master branch.
+            SAVE_LOCATION: fetch-api-data-action
+            SAVE_NAME: quote_string
             
