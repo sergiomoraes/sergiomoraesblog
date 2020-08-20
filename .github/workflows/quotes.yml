@@ -5,27 +5,26 @@ on:
   workflow_dispatch:
   schedule: 
   - cron: "15 14 1 * *"
+
 # Action: Fetch API Data - saves data to fetch_api_data env variable and .json file located in 'fetch-api-data-action/data.json'
 jobs:
   refresh-feed:
       runs-on: ubuntu-latest
       steps:
-      
-        - name: Fetch API Data 📦
+        - name: Checkout
+          uses: actions/checkout@v2
+          with:
+            persist-credentials: false      
+        
+        - name: Fetch API Data
           uses: JamesIves/fetch-api-data-action@releases/v1
           with:
             ENDPOINT: https://programming-quotes-api.herokuapp.com/quotes/random
             
-        - name: Checkout 🛎️
-          uses: actions/checkout@v2.3.1 # If you're using actions/checkout@v2 you must set persist-credentials to false in most cases for the deployment to work correctly.
-          with:
-            persist-credentials: false
-        
-        - name: Build and Deploy 🚀
+        - name: Build and Deploy
           uses: JamesIves/github-pages-deploy-action@releases/v3
           with:
+            ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
             BRANCH: master # Pushes the updates to the master branch.
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-            SAVE_LOCATION: fetch-api-data-action
-            SAVE_NAME: quote_string
-            
+            FOLDER: fetch-api-data-action
+            TARGET_FOLDER: quote_string
