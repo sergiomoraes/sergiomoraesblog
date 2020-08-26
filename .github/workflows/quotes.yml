@@ -4,7 +4,7 @@ name: Quotes API Call Auto-Update
 on:
   workflow_dispatch:
   schedule: 
-  - cron: "15 14 1 * *"
+  - cron: "0 10 1,15 * *"
 
 # Action: Fetch API Data - saves data to fetch_api_data env variable and json file located in 'data/data.json'
 jobs:
