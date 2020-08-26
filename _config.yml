@@ -76,7 +76,7 @@ default_badges:
 
 # Escape HTML in post descriptions
 html_escape:
-  description: false
+  description: true
 
 # Everything below here should be left alone. Modifications may break fastpages
 future: true

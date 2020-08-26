@@ -1,6 +1,9 @@
 #!/bin/bash
 set -e
 
+unset BUNDLE_PATH
+unset BUNDLE_BIN
+
 # setup ssh: allow key to be used without a prompt and start ssh agent
 export GIT_SSH_COMMAND="ssh -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no"
 eval "$(ssh-agent -s)"
@@ -44,5 +47,3 @@ if [[ "$INPUT_BOOL_SAVE_MARKDOWN" == "true" ]];then
         git push fastpages-origin HEAD:${GITHUB_REF}
     fi
 fi
-
-

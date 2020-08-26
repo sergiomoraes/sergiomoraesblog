@@ -15,4 +15,13 @@ search_exclude: true
 	</div>
   </div>
 
+<div class="row">
+{% for quote in site.data.quote %}
+	<div class="column">
+		{{quote.en}} "-" {{quote.author}}
+	</div>
+{% endfor %}
+</div>
+
+
 # Posts
