@@ -16,8 +16,8 @@ search_exclude: true
   </div>
 
 <div class="row">
-{% for quote in site.data.quote %}
 	<div class="column">
+		{% for quote in site.data.quote %}
 		{{quote.en}} "-" {{quote.author}}
 	</div>
 {% endfor %}
