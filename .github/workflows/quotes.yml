@@ -22,11 +22,16 @@ jobs:
             ENDPOINT: https://programming-quotes-api.herokuapp.com/quotes/random # Quotes API end point https://github.com/skolakoda/programming-quotes-api
             SAVE_LOCATION: data
             SAVE_NAME: quotes
+
+        - name: Install SSH Client
+          uses: webfactory/ssh-agent@v0.4.0
+          with:
+            ssh-private-key: ${{ secrets.api_quotes }}
             
-        - name: Build and Deploy
+        - name: Deploy
           uses: JamesIves/github-pages-deploy-action@releases/v3
           with:
-            REPO_TOKEN: ${{ secrets.API_QUOTE }}
+            SSH: true
             BRANCH: master # Pushes the updates to the master branch.
             FOLDER: data
             TARGET_FOLDER: data # Data is saved in the data directory in master branch
