@@ -6,7 +6,7 @@ on:
   schedule: 
   - cron: "15 14 1 * *"
 
-# Action: Fetch API Data - saves data to fetch_api_data env variable and .json file located in 'fetch-api-data-action/data.json'
+# Action: Fetch API Data - saves data to fetch_api_data env variable and json file located in 'data/data.json'
 jobs:
   refresh-feed:
       runs-on: ubuntu-latest
@@ -26,5 +26,5 @@ jobs:
           with:
             REPO_TOKEN: ${{ secrets.GITHUB_TOKEN }}
             BRANCH: master # Pushes the updates to the master branch.
-            FOLDER: fetch-api-data-action
-            TARGET_FOLDER: quote
+            FOLDER: data
+            TARGET_FOLDER: data
