@@ -25,7 +25,7 @@ jobs:
           uses: JamesIves/fetch-api-data-action@releases/v1
           with:
             ENDPOINT: https://programming-quotes-api.herokuapp.com/quotes/random # Quotes API end point https://github.com/skolakoda/programming-quotes-api
-            SAVE_LOCATION: /data
+            SAVE_LOCATION: _data
             SAVE_NAME: quotes
 
         - name: Deploy
@@ -33,5 +33,5 @@ jobs:
           with:
             SSH: true
             BRANCH: master # Pushes the updates to the master branch.
-            FOLDER: /data
-            TARGET_FOLDER: /data # Data is saved in the data directory in master branch
+            FOLDER: _data
+            TARGET_FOLDER: _data # Data is saved in the data directory in master branch
