@@ -15,6 +15,11 @@ jobs:
           uses: actions/checkout@v2
           with:
             persist-credentials: false
+
+        - name: Install SSH Client
+          uses: webfactory/ssh-agent@v0.4.0
+          with:
+            ssh-private-key: ${{ secrets.API_QUOTE }}
         
         - name: Fetch API Data
           uses: JamesIves/fetch-api-data-action@releases/v1
@@ -23,11 +28,6 @@ jobs:
             SAVE_LOCATION: /data
             SAVE_NAME: quotes
 
-        - name: Install SSH Client
-          uses: webfactory/ssh-agent@v0.4.0
-          with:
-            ssh-private-key: ${{ secrets.API_QUOTE }}
-            
         - name: Deploy
           uses: JamesIves/github-pages-deploy-action@releases/v3
           with:
