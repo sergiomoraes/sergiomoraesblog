@@ -26,7 +26,7 @@ jobs:
         - name: Install SSH Client
           uses: webfactory/ssh-agent@v0.4.0
           with:
-            ssh-private-key: ${{ secrets.api_quotes }}
+            ssh-private-key: ${{ secrets.API_QUOTE }}
             
         - name: Deploy
           uses: JamesIves/github-pages-deploy-action@releases/v3
