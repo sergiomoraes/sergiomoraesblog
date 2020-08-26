@@ -15,8 +15,8 @@ search_exclude: true
 	</div> -->
 	<div class="column">
 	
-		{% for quote in site.data.quote %}
-		"{{ phrase.en | json }}" - "{{ phrase.author | json }}"
+		{% for quote in site.data %}
+		"{{ quote.en | json }}" - "{{ quote.author | json }}"
 		{% endfor %}
 	
 	</div>
