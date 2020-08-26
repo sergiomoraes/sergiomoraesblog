@@ -26,7 +26,7 @@ jobs:
         - name: Build and Deploy
           uses: JamesIves/github-pages-deploy-action@releases/v3
           with:
-            REPO_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            REPO_TOKEN: ${{ secrets.QUOTE_API }}
             BRANCH: master # Pushes the updates to the master branch.
             FOLDER: data
             TARGET_FOLDER: data # Data is saved in the data directory in master branch
