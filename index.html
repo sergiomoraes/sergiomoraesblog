@@ -13,11 +13,14 @@ search_exclude: true
 		<br>
 		“A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.” - Alan Turing
 	</div> -->
-{% for quote in data.quotes %}
+<!-- {% for quote in site.data %}
 	<div class="column">
 		{{quote.en}} {{quote.author}}
 	</div>
-{% endfor %}
+{% endfor %} -->
+	<div>
+		{%include home.html quote='en' author='author'%}
+	</div>
 </div>
 
 
