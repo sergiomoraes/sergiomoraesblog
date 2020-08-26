@@ -7,16 +7,16 @@ search_exclude: true
 	<div class="column">
 	  <img src="https://res.cloudinary.com/sergiomoraes/image/upload/v1597791013/sergiomoraesblog/sergiomoraesblog_bannericon_txezkx.png" alt="banner" style="width:100%">
 	</div>
-<!--	<div class="column">
+	<div class="column">
 		<br>
 		<br>
 		<br>
 		“A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.” - Alan Turing
-	</div> -->
+	</div>
 	<div class="column">
 	
-		{% for quote in site.data %}
-		"{{ quote.en | json }}" - "{{ quote.author | json }}"
+		{% for quote in site.data.quote.json %}
+		{{quote.en}} - {{quote.author}}
 		{% endfor %}
 	
 	</div>
