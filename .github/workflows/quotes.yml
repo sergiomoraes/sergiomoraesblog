@@ -34,4 +34,4 @@ jobs:
             SSH: true
             BRANCH: master # Pushes the updates to the master branch.
             FOLDER: _data
-            TARGET_FOLDER: _data # Data is saved in the data directory in master branch
+            TARGET_FOLDER: quotestmp # Data is saved in the data directory in master branch
