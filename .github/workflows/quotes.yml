@@ -33,4 +33,4 @@ jobs:
           with:
             SSH: true
             BRANCH: master # Pushes the updates to the master branch.
-            FOLDER: _site
+            FOLDER: ./_site
