@@ -32,6 +32,6 @@ jobs:
           with:
             SSH: true
             BRANCH: main # Pushes the updates to the master branch.
-            FOLDER: build
+            FOLDER: fetch-api-data-action
             TARGET_FOLDER: _data
             COMMIT_MESSAGE: "New Programming Quote"
