@@ -32,5 +32,5 @@ jobs:
           uses: JamesIves/github-pages-deploy-action@releases/v3
           with:
             SSH: true
-            BRANCH: master # Pushes the updates to the master branch.
+            BRANCH: main # Pushes the updates to the master branch.
             FOLDER: _site
