@@ -33,4 +33,4 @@ jobs:
           with:
             SSH: true
             BRANCH: main # Pushes the updates to the master branch.
-            FOLDER: _data
+            FOLDER: .
