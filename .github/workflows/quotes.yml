@@ -25,13 +25,13 @@ jobs:
           uses: JamesIves/fetch-api-data-action@releases/v1
           with:
             ENDPOINT: https://programming-quotes-api.herokuapp.com/quotes/random # Quotes API end point https://github.com/skolakoda/programming-quotes-api
-            SAVE_NAME: quotes
+            SAVE_NAME: quotes # name of the json file that contains the quote pulled from the API.
 
         - name: Deploy
           uses: JamesIves/github-pages-deploy-action@releases/v3
           with:
             SSH: true
-            BRANCH: main # Pushes the updates to the master branch.
-            FOLDER: fetch-api-data-action
-            TARGET_FOLDER: _data
+            BRANCH: main # Pushes the updates to branch called main.
+            FOLDER: fetch-api-data-action # folder that this action will be deploying
+            TARGET_FOLDER: _data # folder where the committed data will ultimately reside
             COMMIT_MESSAGE: "New Programming Quote"
