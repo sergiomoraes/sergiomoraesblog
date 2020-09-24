@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - maain # need to filter here so we only deploy when there is a push to main
+      - main # need to filter here so we only deploy when there is a push to main
   # no filters on pull requests, so intentionally left blank
   pull_request: 
 
