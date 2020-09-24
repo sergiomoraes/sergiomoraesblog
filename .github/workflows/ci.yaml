@@ -1,7 +1,7 @@
 name: CI
 on:
+  workflow_dispatch:
   push:
-    workflow_dispatch
     branches:
       - master # need to filter here so we only deploy when there is a push to master
   # no filters on pull requests, so intentionally left blank
