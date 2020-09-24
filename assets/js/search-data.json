@@ -18,7 +18,7 @@
   
       ,"page1": {
           "title": "/me",
-          "content": "/me On this site, I share my personal thoughts around technology, data, and personal projects. I’m a Data Governance &amp; Data Quality professional, and I like to spend my time thinking about technology and how it influences our lives. . Reach out to me if you’d like to talk about anything data, enterprise project management methodologies, or computer science. . My preferred contact method is email: sergiomoraes@ieee.org but you can also find me on Twitter@SergiMoraes. . . . Tip: Consider supporting the Python Software Foundation",
+          "content": "On this site, I share my personal thoughts around technology, data, and personal projects. I’m a Data Governance &amp; Data Quality professional, and I like to spend my time thinking about technology and how it influences our lives. . Reach out to me if you’d like to talk about anything data, enterprise project management methodologies, or computer science. . My preferred contact method is email: sergiomoraes@ieee.org but you can also find me on Twitter@SergiMoraes. . . . Tip: Consider supporting the Python Software Foundation",
           "url": "https://sergiomoraes.dev/about",
           "relUrl": "/about",
           "date": ""
@@ -31,7 +31,7 @@
   
       ,"page3": {
           "title": "/now",
-          "content": "/now . I moved from Detroit MI to Seattle WA just about 5 months ago. Adapting has been a long process, mostly because of the pandemic but I like the city so far. . On a more work/skill releated front, I have been playing a lot with Python lately, especially with frameworks adjancet to it such as Django and Flask. . .",
+          "content": "I moved from Detroit MI to Seattle WA just about 5 months ago. Adapting has been a long process, mostly because of the pandemic but I like the city so far. . On a more work/skill releated front, I have been playing a lot with Python lately, especially with frameworks adjancet to it such as Django and Flask. . .",
           "url": "https://sergiomoraes.dev/now",
           "relUrl": "/now",
           "date": ""
