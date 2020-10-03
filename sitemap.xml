@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://sergiomoraes.dev/posts/remote_work_publish.html</loc>
+<loc>https://sergiomoraes.dev/posts/remote_work_publish</loc>
 <lastmod>2020-08-17T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>https://sergiomoraes.dev/about</loc>
+<loc>https://sergiomoraes.dev/advice</loc>
 </url>
 <url>
 <loc>https://sergiomoraes.dev/</loc>
+</url>
+<url>
+<loc>https://sergiomoraes.dev/me</loc>
 </url>
 <url>
 <loc>https://sergiomoraes.dev/now</loc>
