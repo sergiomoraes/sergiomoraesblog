@@ -17,20 +17,32 @@ Contact me using the form below.
 
 <div class="container">
   <form action="mailto:sergiomoraes@ieee.org" method="get">
-    <div>
-      <label for="name">Name:
-        <input type="text" name="name" id="name" />
-      </label>
+  <div class="row">
+    <div class="col-25">
+      <label for="name">Name</label>
     </div>
-    <div>
-      <label for="email">Email:
-        <input type="text" name="email" id="email" />
-      </label>
+    <div class="col-75">
+      <input type="text" name="name" id="name" />
     </div>
-    <div>
-      <label>Message:</label>
-      <br />
-      <textarea name="message" rows="12" cols="35"></textarea>
+  </div>
+  <div class="row">
+    <div class="col-25">
+      <label for="email">Email</label>
     </div>
+    <div class="col-75">
+      <input type="text" name="email" id="email" />
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-25">
+      <label>Message</label>
+    </div>
+    <div class="col-75">
+      <textarea id="message" style="height:200px" name="message" placeholder="Write your message here."></textarea>
+    </div>
+  </div>
+  <div class="row">
+    <input type="submit" name="submit" value="Send" />
+  </div>
   </form>
 </div>
