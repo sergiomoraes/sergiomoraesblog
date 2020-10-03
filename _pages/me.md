@@ -8,8 +8,11 @@ On this site, I share my personal thoughts around technology, data, and personal
 
 Reach out to me if you'd like to talk about anything data, enterprise project management methodologies, or computer science.
 
-My preferred contact method is email: <b><sergiomoraes@ieee.org></b>
-but you can also find me on <a href="//twitter.com/SergiMoraes" >Twitter<b> @SergiMoraes</b>.</a>
+My preferred contact method is email. Send one through <a href="https://sergiomoraes.dev/advice">this form</a>.
+
+<br>
+
+But you can also find me on <a href="//twitter.com/SergiMoraes">Twitter<b> @SergiMoraes</b>.</a>
 
 <br>
 

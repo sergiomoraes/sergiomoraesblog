@@ -14,24 +14,23 @@ Contact me if you'd like to talk about data, have questions, or ask for a consul
 <br>
 Contact me using the form below.
 <br>
-<form action="mailto:sergiomoraes@ieee.org" method="get">
-      <div>
-        <label for="name">Name:
-          <input type="text" name="name" id="name" />
-        </label>
-      </div>
-      <div>
-        <label for="email">Email:
-          <input type="text" name="email" id="email" />
-        </label>
-      </div>
-      <div>
-        <label>Message:</label>
-        <br />
-        <textarea name="message" rows="12" cols="35">Write your message. I'll reply as soon as possible.</textarea>
-      </div>
-    </form>
-<br>
-My preferred contact method is email: <a href="mailto:sergiomoraes@ieee.org">sergiomoraes@ieee.org</a>
 
-<br>
+<div class="container">
+  <form action="mailto:sergiomoraes@ieee.org" method="get">
+    <div>
+      <label for="name">Name:
+        <input type="text" name="name" id="name" />
+      </label>
+    </div>
+    <div>
+      <label for="email">Email:
+        <input type="text" name="email" id="email" />
+      </label>
+    </div>
+    <div>
+      <label>Message:</label>
+      <br />
+      <textarea name="message" rows="12" cols="35"></textarea>
+    </div>
+  </form>
+</div>
