@@ -46,3 +46,4 @@ Contact me using the form below.
   </div>
   </form>
 </div>
+<em>This form has no field validation properties. Double-check your email address if you'd like me to reply to your message.</em>
