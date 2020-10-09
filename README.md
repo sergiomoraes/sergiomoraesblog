@@ -7,7 +7,7 @@
 
 [sergiomoraes.github.io/sergiomoraesblog](https://sergiomoraes.github.io/sergiomoraesblog/) - [sergiomoraes.dev](https://sergiomoraes.dev)
 
-## Blog Platform
+## Framework
 
 [Fastpages](https://github.com/fastai/fastpages)
 
