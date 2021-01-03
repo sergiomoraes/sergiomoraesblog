@@ -40,7 +40,7 @@ baseurl: "" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter_username: SergiMoraes
+    twitter: SergiMoraes
     github: sergiomoraes
     linkedin: sergiomoraesj
 
