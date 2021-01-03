@@ -16,6 +16,8 @@ But you can also find me on <a href="//twitter.com/SergiMoraes">Twitter<b> @Serg
 
 <br>
 
-{% include tip.html text='Consider supporting the' url='https://www.python.org/psf/' content='Python Software Foundation'%}
+{% include image_custom.html URL="https://www.python.org/psf/" max-width="250px" file="/images/supporting-member-badge.png" alt="PSF Logo" %}
 
-{% include image_custom.html url="https://www.python.org/psf/" max-width="250px" file="/images/supporting-member-badge.png" alt="PSF Logo" %}
+{% include image_custom.html URL="https:https://www.eff.org/" max-width="250px" file="images/2020-membership-badge-2.png" alt="EFF Logo" %}
+
+{% include image_custom.html URL="https://www.debian.org/" max-width="250px" file="images/debianlogo.png" alt="Debian OS Logo" %}
