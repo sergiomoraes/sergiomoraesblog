@@ -16,7 +16,7 @@ But you can also find me on <a href="//twitter.com/SergiMoraes">Twitter<b> @Serg
 
 <br>
 
-<img src="/images/supporting-member-badge.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em; width: 250px;">
+<img src="/images/supporting-member-badge.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em; width: 200px;">
 
 <img src="images/2020-membership-badge-2.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em; width: 160px;">
 
