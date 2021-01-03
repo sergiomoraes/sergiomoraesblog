@@ -16,11 +16,14 @@ But you can also find me on <a href="//twitter.com/SergiMoraes">Twitter<b> @Serg
 
 <br>
 
+<a href="https://www.python.org/psf/">
 <img src="/images/supporting-member-badge.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em; width: 200px;">
+</a>
 
+<a href="https://www.eff.org/">
 <img src="images/2020-membership-badge-2.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em; width: 160px;">
+</a>
 
+<a href="https://www.debian.org/">
 <img src="images/debianlogo.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em; width: 160px;">
-
-<br>
-<br>
+</a>
