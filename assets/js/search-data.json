@@ -53,8 +53,8 @@
       ,"page8": {
           "title": "/uptime",
           "content": "",
-          "url": "https://sergiomoraes.dev/uptime.sergiomoraes.dev",
-          "relUrl": "/uptime.sergiomoraes.dev",
+          "url": "https://sergiomoraes.dev/uptime",
+          "relUrl": "/uptime",
           "date": ""
       }
       
@@ -64,6 +64,14 @@
   
 
   
+      ,"page10": {
+          "title": "",
+          "content": "{“/uptime”:”https://uptime.sergiomoraes.dev/”} .",
+          "url": "https://sergiomoraes.dev/redirects.json",
+          "relUrl": "/redirects.json",
+          "date": ""
+      }
+      
   
 
   
@@ -78,6 +86,9 @@
           "date": ""
       }
       
+  
+
+  
   
 
 }
