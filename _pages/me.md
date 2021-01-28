@@ -1,6 +1,6 @@
 ---
 layout: post
-title: /me
+title: "/me"
 permalink: /me
 ---
 
