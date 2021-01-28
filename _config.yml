@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Sergio Moraes
-description: I've convinced others I'm good at data management, so that's what I do for a living . I write about my personal thoughts, data, and side projects. <a href="https://github.com/sergiomoraes/sergiomoraesblog/blob/main/README.md">README.md</a>
+description: I've convinced others I'm good at data management, so that's what I do for a living . I write about my personal thoughts, data, and side projects. [README.md](https://github.com/sergiomoraes/sergiomoraesblog/blob/main/README.md)
 
 github_username: sergiomoraes
 # you can comment the below line out if your repo name is not different than your baseurl
@@ -17,13 +17,6 @@ github_repo: sergiomoraesblog
 # Note: leave out the trailing / from this value.
 url: "https://sergiomoraes.dev" # the base hostname & protocol for your site, e.g. http://example.com
 
-#Attempt to use Minima's config to organize the navigation links on the site
-header_pages:
-    - me.md
-    - advice.md
-    - search.html
-    - uptime.html
-    - tags.html
 ###########################################################
 #########  Special Instructions for baseurl ###############
 #
