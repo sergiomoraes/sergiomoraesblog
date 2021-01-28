@@ -4,17 +4,17 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="twitter:card" content="summary_large_image" /><!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>/now | Sergio Moraes</title>
+<title>Sergio Moraes | I’ve convinced others I’m good at data management, so that’s what I do for a living . I write about my personal thoughts, data, and side projects. README.md</title>
 <meta name="generator" content="Jekyll v4.1.1" />
-<meta property="og:title" content="/now" />
+<meta property="og:title" content="Sergio Moraes" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Data Governance &amp; Quality professional. Blog about my personal thoughts and projects." />
-<meta property="og:description" content="Data Governance &amp; Quality professional. Blog about my personal thoughts and projects." />
-<link rel="canonical" href="https://sergiomoraes.dev/now" />
-<meta property="og:url" content="https://sergiomoraes.dev/now" />
+<meta name="description" content="I’ve convinced others I’m good at data management, so that’s what I do for a living . I write about my personal thoughts, data, and side projects. README.md" />
+<meta property="og:description" content="I’ve convinced others I’m good at data management, so that’s what I do for a living . I write about my personal thoughts, data, and side projects. README.md" />
+<link rel="canonical" href="https://sergiomoraes.dev/uptime.sergiomoraes.dev" />
+<meta property="og:url" content="https://sergiomoraes.dev/uptime.sergiomoraes.dev" />
 <meta property="og:site_name" content="Sergio Moraes" />
 <script type="application/ld+json">
-{"url":"https://sergiomoraes.dev/now","@type":"WebPage","headline":"/now","description":"Data Governance &amp; Quality professional. Blog about my personal thoughts and projects.","@context":"https://schema.org"}</script>
+{"url":"https://sergiomoraes.dev/uptime.sergiomoraes.dev","@type":"WebPage","headline":"Sergio Moraes","description":"I’ve convinced others I’m good at data management, so that’s what I do for a living . I write about my personal thoughts, data, and side projects. README.md","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://sergiomoraes.dev/feed.xml" title="Sergio Moraes" /><!-- the google_analytics_id gets auto inserted from the config file -->
 
@@ -92,35 +92,12 @@ window.onload = wrap_img;
           </span>
         </label>
 
-        <div class="trigger"><a class="page-link" href="/advice">/advice</a><a class="page-link" href="/me">/me</a><a class="page-link" href="/now">/now</a><a class="page-link" href="/search/">/search</a><a class="page-link" href="/categories/">/tags</a></div>
+        <div class="trigger"></div>
       </nav></div>
 </header>
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
-
-  <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">/now</h1><p class="post-meta post-meta-title"><time class="dt-published" datetime="" itemprop="datePublished">
         
-      </time>
-       • <span class="read-time" title="Estimated read time">
-    
-    
-      1 min read
-    
-</span></p>
-
-    
-
-    </header>
-
-  <div class="post-content e-content" itemprop="articleBody">
-    <p>I moved from Detroit MI to Seattle WA just about 5 months ago. Adapting has been a long process, mostly because of the pandemic but I like the city so far.</p>
-<p>On a more work/skill releated front, I have been playing a lot with Python lately, especially with frameworks adjancet to it such as Django and Flask.</p>
-<p></p>
-
-  </div><a class="u-url" href="/now" hidden></a>
-</article>
       </div>
     </main><footer class="site-footer h-card">
   <data class="u-url" href="/"></data>
@@ -138,7 +115,7 @@ window.onload = wrap_img;
         </p>
       </div>
       <div class="footer-col">
-        <p>Data Governance &amp; Quality professional. Blog about my personal thoughts and projects.</p>
+        <p>I&#39;ve convinced others I&#39;m good at data management, so that&#39;s what I do for a living . I write about my personal thoughts, data, and side projects. &lt;a href=&quot;https://github.com/sergiomoraes/sergiomoraesblog/blob/main/README.md&quot;&gt;README.md&lt;/a&gt;</p>
       </div>
     </div>
 
