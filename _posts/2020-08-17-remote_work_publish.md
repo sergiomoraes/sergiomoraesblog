@@ -3,14 +3,14 @@ keywords: fastai
 description: "I've been thinking a lot about remote work/ virtual work and I'd like to share some of my thoughts."
 title: "Remote Work During the Pandemic"
 toc: false
-branch: master
 badges: true
 comments: true
 categories: [collaboration, communication, virtual work]
 hide: false
 search_exclude: false
+author: Sergio Moraes
 image: https://res.cloudinary.com/sergiomoraes/image/upload/v1597785294/sergiomoraesblog/remote_work_thumbnail_hhaft9.jpg
-permalink: /posts/:title:output_ext
+permalink: /posts/:title
 nb_path: _notebooks/2020-08-17-remote_work_publish.ipynb
 layout: notebook
 ---
@@ -24,13 +24,6 @@ layout: notebook
 
 <div class="container" id="notebook-container">
         
-    {% raw %}
-    
-<div class="cell border-box-sizing code_cell rendered">
-
-</div>
-    {% endraw %}
-
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <p>I've been thinking a lot about remote work/ virtual work and I'd like to share some of my thoughts.</p>
