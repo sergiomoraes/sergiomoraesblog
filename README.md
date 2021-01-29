@@ -15,4 +15,4 @@ Fastpages uses [Jekyll](https://github.com/jekyll/jekyll)
 
 ## Bugs
 
-If you find any bugs, typos, oddities, please file a ["bug report"](https://github.com/sergiomoraes/sergiomoraesblog/issues/new?assignees=&labels=bug%2C+question&template=bug_report.md&title=%5BBUG%5D).
+If you find any bugs, typos, oddities, please file a [bug report](https://github.com/sergiomoraes/sergiomoraesblog/issues/new?assignees=&labels=bug%2C+question&template=bug_report.md&title=%5BBUG%5D).
