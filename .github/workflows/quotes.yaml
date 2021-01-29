@@ -24,7 +24,7 @@ jobs:
         - name: Fetch API Data
           uses: JamesIves/fetch-api-data-action@releases/v1
           with:
-            ENDPOINT: https://programming-quotes-api.herokuapp.com/quotes/random # Quotes API end point https://github.com/skolakoda/programming-quotes-api
+            ENDPOINT: https://v2.jokeapi.dev/joke/Programming?blacklistFlags=nsfw,religious,political,racist,sexist,explicit&format=txt&type=single # Quotes API end point https://github.com/skolakoda/programming-quotes-api
             SAVE_NAME: quotes # name of the json file that contains the quote pulled from the API.
 
         - name: Deploy
