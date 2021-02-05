@@ -24,7 +24,7 @@ jobs:
         - name: Fetch API Data
           uses: JamesIves/fetch-api-data-action@releases/v1
           with:
-            ENDPOINT: https://v2.jokeapi.dev/joke/Programming?blacklistFlags=nsfw,religious,political,racist,sexist,explicit&format=txt&type=single # Quotes API end point https://github.com/skolakoda/programming-quotes-api
+            ENDPOINT: https://v2.jokeapi.dev/joke/Programming?blacklistFlags=nsfw,religious,political,racist,sexist,explicit&type=single
             SAVE_NAME: quotes # name of the json file that contains the quote pulled from the API.
 
         - name: Deploy
@@ -34,4 +34,4 @@ jobs:
             BRANCH: main # Pushes the updates to branch called main.
             FOLDER: fetch-api-data-action # folder that this action will be deploying
             TARGET_FOLDER: _data # folder where the committed data will ultimately reside
-            COMMIT_MESSAGE: "New Programming Quote"
+            COMMIT_MESSAGE: "New Quote Text"
