@@ -42,10 +42,9 @@ minima:
     social_links:
         twitter: SergiMoraes
         github: sergiomoraes
-        linkedin: sergiomoraesj
 
 # Set this to true to get LaTeX math equation support
-use_math: true
+use_math: false
 
 # Set this to true to display the summary of your blog post under your title on the Home page.
 show_description: true
@@ -54,13 +53,13 @@ show_description: true
 show_image: true
 
 # Set this to true to turn on annotations with hypothes.is (https://web.hypothes.is/)
-annotations: true
+annotations: false
 
 # Set this to true to display tags on each post
 show_tags: true
 
 # Add your Google Analytics ID here if you have one and want to use it
-google_analytics: UA-139916615-1
+google_analytics:
 
 exclude:
     - docker-compose.yml
